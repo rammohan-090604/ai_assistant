@@ -6,11 +6,11 @@ An ai aissistant which can talk like the jarvis from IronMan. Go ahead and test 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/yourproject.git
+    git clone https://github.com/rammohan-090604/ai_assistant/ai_assistant.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd yourproject
+    cd ai_assistant
     ```
 3. Install the required dependencies:
     ```bash
